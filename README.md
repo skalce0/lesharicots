@@ -14,7 +14,7 @@ The website has been designed to showcase my photography work. Each album is cat
 
 ## Visit the Website
 
-To view my website and explore my photo albums, please visit [yourusername.github.io](http://lesharicots.github.io).
+To view my website and explore my photo albums, please visit [[yourusername.github.io](https://skalce0.github.io/lesharicots/)](http://lesharicots.github.io).
 
 ## Feedback
 
