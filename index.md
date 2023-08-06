@@ -12,7 +12,7 @@ This website is a collection of my favorite photos from my travels, events, and 
 
 Here are some of my favorite photos:
 
-![croatie BNP 旅游团](/blob/main/IMG_8445.JPG)
+![croatie BNP 旅游团](/IMG_8445.JPG)
 
 
 
